@@ -1,6 +1,8 @@
 ## API Details
 * __API :__ "calc/<*slug:slug*>/scenarios/"
+  
 * __View :__ OdinCalcScenariosView
+  
 * __API Name :__ calc_scenarios
 
 
