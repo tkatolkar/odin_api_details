@@ -6,7 +6,7 @@ __View:__ OdinDataView
 __API Name:__ data
 
 
-### Method: GET
+## Method: GET
 
 * __Response format:__ List of dictionaries
 * __Keys in Dictionary:__
@@ -18,7 +18,7 @@ __API Name:__ data
   * datatype : *str*
 
 
-### Method: POST
+## Method: POST
 
 * __Required Params:__
     * iso : *str*
