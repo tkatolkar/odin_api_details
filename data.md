@@ -1,9 +1,9 @@
 ## API Details
-__API:__ "data/"
+* __API:__ "data/"
 
-__View:__ OdinDataView
+* __View:__ OdinDataView
 
-__API Name:__ data
+* __API Name:__ data
 
 
 ## Method: GET
