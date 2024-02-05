@@ -1,8 +1,9 @@
+## API Details
 * __API :__ "data/<*slug:slug*>/"
 * __View :__ OdinDataDetailView
 * __API Name :__ data_detail
 
-#### Method: GET
+## Method: GET
 
 * __Response format:__ Dictionary
 * __Keys in Dictionary:__

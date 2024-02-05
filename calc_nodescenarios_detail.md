@@ -1,3 +1,4 @@
+## API Details
 * __API :__ "calc/<*slug:slug*>/nodescenarios/<*slug:nodescenario_slug*>/"
 
 * __View :__ OdinCalcNodeScenarioDetailView
@@ -5,7 +6,7 @@
 * __API Name :__ calc_nodescenarios_detail
 
 
-#### Method: GET
+## Method: GET
 
 * __Response format:__ Dictionary
 * __Keys in Dictionary:__

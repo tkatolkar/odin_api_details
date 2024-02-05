@@ -1,10 +1,11 @@
+## API Details
 * __API :__ "calc/"
 
 * __View :__ OdinCalcView
 
 * __API Name :__ calc
 
-#### Method: GET
+## Method: GET
 
 
 * __Response format:__ List of dictionaries
@@ -18,7 +19,7 @@
   
   
 
-#### Method: POST
+## Method: POST
 
 
 * __Required Params:__

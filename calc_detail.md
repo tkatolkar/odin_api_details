@@ -1,10 +1,12 @@
+## API Details
+
 * __API :__ "calc/<*slug:slug*>/"
 
 * __View :__ OdinCalcDetailView
 
 * __API Name :__ calc_detail
 
-#### Method: GET
+## Method: GET
 
 
 * __Response format:__ Dictionary
