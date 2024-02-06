@@ -1,16 +1,16 @@
 ## API Details
-* __API :__ calc/<*slug:slug*>/nodescenarios/<*slug:nodescenario_slug*>/params/"
+* __API :__ "calc/<*slug:slug*>/scenarios/<*slug:scenario_slug*>/params/"
   
-* __View :__ OdinCalcNodeScenariosParamsView
+* __View :__ OdinCalcScenarioParams
 
-* __API Name :__ calc_nodescenarios_params
+* __API Name :__ calc_scenarios_params
 
 
 ## Method: GET
 
 * __Response format:__ Dictionary of dictionary
 * __Keys in Dictionary:__
-   * node_scenario_slug : *str*
+   * scenario_slug : *str*
    * params : *dict*
      * __Keys in 'params' Dictionary:__
         * capacity : *str*
